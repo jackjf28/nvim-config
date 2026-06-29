@@ -1,16 +1,53 @@
 {
   "plugins": {
+    "LuaSnip": {
+      "rev": "0abc8f3",
+      "src": "https://github.com/L3MON4D3/LuaSnip"
+    },
+    "blink.cmp": {
+      "rev": "78336bc",
+      "src": "https://github.com/saghen/blink.cmp",
+      "version": "1.0.0 - 2.0.0"
+    },
+    "efmls-configs-nvim": {
+      "rev": "2f5dc31",
+      "src": "https://github.com/creativenull/efmls-configs-nvim"
+    },
     "fzf-lua": {
       "rev": "029a162",
       "src": "https://www.github.com/ibhagwan/fzf-lua"
+    },
+    "harpoon": {
+      "rev": "1bc17e3",
+      "src": "https://github.com/theprimeagen/harpoon"
+    },
+    "mason.nvim": {
+      "rev": "2a6940a",
+      "src": "https://github.com/mason-org/mason.nvim"
     },
     "mini.nvim": {
       "rev": "1599a47",
       "src": "https://www.github.com/echasnovski/mini.nvim"
     },
+    "nvim-lspconfig": {
+      "rev": "3371bf2",
+      "src": "https://www.github.com/neovim/nvim-lspconfig"
+    },
     "nvim-tree.lua": {
       "rev": "8e8be70",
       "src": "https://www.github.com/nvim-tree/nvim-tree.lua"
+    },
+    "nvim-treesitter": {
+      "rev": "4916d659",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+    },
+    "oil.nvim": {
+      "rev": "b73018b",
+      "src": "https://www.github.com/stevearc/oil.nvim"
+    },
+    "plenary.nvim": {
+      "rev": "74b06c6",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
     }
   }
 }
