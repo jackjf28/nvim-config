@@ -48,6 +48,10 @@
     "plenary.nvim": {
       "rev": "74b06c6",
       "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "which-key.nvim": {
+      "rev": "3aab214",
+      "src": "https://github.com/folke/which-key.nvim"
     }
   }
 }

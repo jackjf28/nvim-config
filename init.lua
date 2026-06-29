@@ -441,6 +441,7 @@ vim.pack.add({
 		src = "https://github.com/theprimeagen/harpoon",
 		branch = "harpoon2",
 	},
+	"https://github.com/folke/which-key.nvim",
 })
 
 local function packadd(name)
@@ -458,6 +459,7 @@ packadd("blink.cmp")
 packadd("LuaSnip")
 packadd("plenary.nvim")
 packadd("harpoon")
+packadd("which-key.nvim")
 
 -- ============================================================================
 -- PLUGIN CONFIGS
